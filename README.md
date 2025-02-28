@@ -1,4 +1,4 @@
-# ft_irc_nonblocking testser
+# ft_irc_nonblocking tester
 
 The project tests the 42 school's ft_irc project against blocking file descriptors. If blocking file descriptors are used, then the server should hang and prevent other clients from interacting with the server.
 
